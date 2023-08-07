@@ -597,7 +597,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 806px;
+    min-height: 831px;
   }
 
   .u-section-6 .u-text-2 {
@@ -607,6 +607,7 @@
   }
 
   .u-section-6 .u-form-1 {
+    height: 378px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
