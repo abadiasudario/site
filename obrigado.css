@@ -155,11 +155,13 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 77px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 56px;
+    margin-top: 54px;
   }
 
   .u-section-1 .u-text-3 {
@@ -175,14 +177,14 @@
   .u-section-1 .u-line-1 {
     transform-origin: left center 0px;
     width: 293px;
-    margin-top: -456px;
+    margin-top: -471px;
   }
 
   .u-section-1 .u-btn-1 {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-top: 476px;
+    margin-top: 493px;
     padding-left: 85px;
     padding-right: 85px;
   }
