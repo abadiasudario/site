@@ -36,10 +36,16 @@
 
 .u-section-1 .u-btn-1 {
   background-image: none;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: normal;
 }
 
 .u-section-1 .u-btn-2 {
   background-image: none;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: normal;
 }
 
 .u-section-1 .u-line-1 {
@@ -95,7 +101,7 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin: -670px 0 0;
+    margin: -644px 0 0;
     padding: 10px 85px;
   }
 
@@ -103,5 +109,6 @@
     transform-origin: left center 0px;
     width: 293px;
     margin-top: -523px;
+    margin-bottom: 1120px;
   }
 }
