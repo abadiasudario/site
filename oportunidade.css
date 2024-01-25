@@ -1,7 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/imagem_2024-01-24_183808980copiar2.webp");
-  background-position: 0% 0%;
-  background-size: 180%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/imagem_2024-01-24_183808980copiar21.webp");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -11,14 +10,14 @@
 .u-section-1 .u-image-1 {
   width: 415px;
   height: 235px;
-  margin: 188px auto 0 61px;
+  margin: 164px auto 0 65px;
 }
 
 .u-section-1 .u-image-2 {
   width: 758px;
   height: 758px;
   object-position: 50% 31.34%;
-  margin: -147px -37px 0 auto;
+  margin: -187px -41px 0 auto;
 }
 
 .u-section-1 .u-group-1 {
@@ -31,7 +30,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  margin: -635px auto 60px 0;
+  margin: -570px auto 60px 0;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -59,10 +58,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-size: auto 180%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 877px;
   }
@@ -197,7 +192,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    background-position: 28.47% 0%;
+    background-position: 50.49% 0%;
   }
 
   .u-section-1 .u-sheet-1 {
